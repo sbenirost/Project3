@@ -48,6 +48,7 @@ SourceArt/**/*.tga
 
 Binaries/*
 Plugins/*/Binaries/*
+VisualTest/Intermediate/CachedAssetRegistry.bin
 
 
 Build/*
@@ -75,4 +76,3 @@ VisualTest/Saved/*
 
 VisualTest/Saved/
 VisualTest/Content/ParagonMinions
-VisualTest/Intermediate/CachedAssetRegistry.bin
